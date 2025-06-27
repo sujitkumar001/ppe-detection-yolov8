@@ -1,0 +1,9 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# VSCode & system files
+.vscode/
+.DS_Store
+Thumbs.db
